@@ -12,16 +12,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/cunhamuril/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/cunhamuril/" target="_blank" rel="noreferrer"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="cunhamuril" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/murilocunhaa/" target="blank"><img align="center"
+  <a href="https://www.facebook.com/murilocunhaa/" target="_blank" rel="noreferrer"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="murilocunhaa" height="30" width="40" /></a>
-  <a href="https://instagram.com/murilocunha_" target="blank"><img align="center"
+  <a href="https://instagram.com/murilocunha_" target="_blank" rel="noreferrer"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="murilocunha_" height="30" width="40" /></a>  
- <a href="https://twitter.com/murilocunha_" target="blank"><img align="center"
+ <a href="https://twitter.com/murilocunha_" target="_blank" rel="noreferrer"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="murilocunha_" height="30" width="40" /></a>
 </p>
