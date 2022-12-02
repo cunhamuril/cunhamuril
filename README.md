@@ -4,7 +4,7 @@
 
 <p><img align="right" src="https://raw.githubusercontent.com/cunhamuril/cunhamuril/main/animation_500_kxa883sd.gif" alt="cunhamuril" /></p>
 
-- 🌱 I’m currently learning and working with Web Development.
+- 🌱 I’m currently learning and working with Web and Mobile Development.
 
 - 📫 How to reach me **murilo.sant@hotmail.com**
 
