@@ -32,7 +32,7 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">  
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs"
+      src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs"
       width="40" 
       height="40" 
       title="NextJS" 
