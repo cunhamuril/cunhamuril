@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning and working with Web and Mobile Development.
 
-- 📫 How to reach me **murilo.sant@hotmail.com**
+- 📫 How to reach me **murilocunha.dev@gmail.com**
 
 <br>
 
